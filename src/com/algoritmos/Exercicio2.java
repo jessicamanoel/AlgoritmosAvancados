@@ -18,6 +18,7 @@ import java.util.Random;
 *           return max;
 *       }
 */
+
 public class Exercicio2 {
     private static int iteracoes;
 
