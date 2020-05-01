@@ -20,22 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcd46ad3-87e7-4926-b40b-00405d978502" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoritmosAvancados.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoritmosAvancados/com/algoritmos/Exercicio1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algoritmos/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algoritmos/Exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,9 +47,22 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Exercicio1">
+  <component name="RunManager" selected="Application.Exercicio2">
     <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algoritmos.Exercicio1" />
+      <module name="AlgoritmosAvancados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algoritmos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algoritmos.Exercicio2" />
       <module name="AlgoritmosAvancados" />
       <extension name="coverage">
         <pattern>
@@ -76,9 +87,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Exercicio1" />
+      <item itemvalue="Application.Exercicio2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio2" />
         <item itemvalue="Application.Exercicio1" />
       </list>
     </recent_temporary>
@@ -93,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588373087845</updated>
-      <workItem from="1588373091643" duration="770000" />
+      <workItem from="1588373091643" duration="1247000" />
     </task>
     <servers />
   </component>
