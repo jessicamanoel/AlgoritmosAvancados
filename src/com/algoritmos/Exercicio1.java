@@ -22,6 +22,7 @@ import java.util.*;
  *       L ← MERGE(A, B).
  *       RETURN L.
  */
+
 public class Exercicio1 {
     private static int iteracoes;
 
