@@ -4,6 +4,7 @@ import java.time.Instant;
 import java.util.Random;
 
 /*
+* O algoritmo a seguir (que não utiliza divisão-e-conquista) encontra o maior valor em um vetor.
 * Assim, novamente:
 * implemente o algortimo abaixo;
 * teste-o para vetores de inteiros com conteúdos randômicos, e tamanho 32, 2048
