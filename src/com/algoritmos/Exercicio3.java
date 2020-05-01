@@ -20,7 +20,9 @@ import static java.lang.Integer.max;
 *                   int v2 = maxVal2(A,m+1,end);
 *                   return max(v1,v2);
 *               }
-}*/
+*           }
+*/
+
 public class Exercicio3 {
     private static int iteracoes;
 
