@@ -76,7 +76,7 @@ public class Exercicio1 {
 
     public static void main(String[] args) {
         List<Integer> unsortedArray = new ArrayList<>();
-        for (int i = 0; i < 32; i++) unsortedArray.add(i);
+        for (int i = 0; i < 1048576; i++) unsortedArray.add(i);
         Collections.shuffle(unsortedArray);
 
         System.out.println("---------Initial Unsorted Array---------");

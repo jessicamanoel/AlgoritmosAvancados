@@ -40,7 +40,7 @@ public class Exercicio3 {
 
     public static void main(String[] args) {
         Random random = new Random();
-        final int SIZE = 32;
+        final int SIZE = 1048576;
         int[] unsortedArray = new int[SIZE];
         for (int i = 0; i < SIZE; i++) {
             unsortedArray[i] = random.nextInt(100);
